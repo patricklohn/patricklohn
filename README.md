@@ -19,6 +19,5 @@
 <br/>
 
 ## My Git
-<div style='display: flex; flex-direction: row; justify-content: center;'>  
+<br/>
   ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklohn&show_icons=true&theme=dracula&locale=pt-br)
-</div>
