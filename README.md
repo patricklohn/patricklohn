@@ -18,6 +18,4 @@
 </div>
 <br/>
 
-## My Git
-<br/>
   ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklohn&show_icons=true&theme=dracula&locale=pt-br)
