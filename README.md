@@ -17,6 +17,7 @@
   <img align="center" alt="Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Node" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -25,6 +26,7 @@
   <img align="center" alt="Sql" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
   <img align="center" alt="MySql" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Sequelize" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Sequelize" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
 </div><br>
 
 ## My Git
