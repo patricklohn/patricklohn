@@ -28,10 +28,3 @@
   <img align="center" alt="Sequelize" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Sequelize" height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
 </div><br>
-
-## My Git
-<br/>
-
-  ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklohn&show_icons=true&theme=dracula&locale=pt-br)
-  
-<br/>
